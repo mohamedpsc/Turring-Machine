@@ -25,6 +25,7 @@ Transition can be written in any of the following formats:
 
 ## Example Programs
 The following program will change zeros to ones and vice versa and accepts the string.
+<br>
 q0 1 q0 0 r
 <br>
 q0 0 q0 1 r
@@ -33,6 +34,7 @@ q0 # q1 # y
 <br>
 
 The following program will accepts even number of a's
+<br>
 q0 a q1 a r
 <br>
 q0 b q0 b r
